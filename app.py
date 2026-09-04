@@ -15,5 +15,5 @@ elif modulos == "Arreglos":
 elif modulos == "Funciones":
   st.write("Bienvenidos al modulo de funciones")
 
-else
+else:
   st.write("Bienvenidos al modulo de POO")
